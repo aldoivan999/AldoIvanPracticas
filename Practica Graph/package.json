@@ -19,7 +19,7 @@
     "apollo-link-context": "^1.0.20",
     "apollo-link-http": "^1.5.17",
     "apollo-server": "^2.13.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "graphql": "^15.3.0",
     "graphql-tag": "^2.10.4",
     "l": "^0.6.0",
